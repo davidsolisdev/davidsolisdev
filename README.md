@@ -9,7 +9,7 @@
         <img alt="Linkedin" src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=Linkedin&logoColor=blue&style=for-the-    badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavidsolisdev">
     </a>
     <a href="https://davidsolis.dev" target="_blank">
-        <img alt="Web" src="https://img.shields.io/twitter/url?color=blue&label=Portafolio&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fdavidsolis.dev">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Portafolio&logoColor=blue&style=flat-square&url=https%3A%2F%2Fdavidsolis.dev">
     </a>
 </div>
 
