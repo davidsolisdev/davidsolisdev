@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 Sobre mi :
+### Sobre mi :
 
 Apacionado total del codigo, y de poder crear cosas útiles y de gran impacto solo con mi mente y mis manos.
 
