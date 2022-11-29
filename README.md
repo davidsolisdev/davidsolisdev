@@ -6,12 +6,10 @@
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/davidsolisdev" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
-            alt="Linkedin Badge" />
+        <img alt="Linkedin" src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=Linkedin&logoColor=blue&style=for-the-    badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavidsolisdev">
     </a>
     <a href="https://davidsolis.dev" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/128/1006/1006771.png"
-            alt="Web Badge" />
+        <img alt="Web" src="https://img.shields.io/twitter/url?color=blue&label=Portafolio&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fdavidsolis.dev">
     </a>
 </div>
 
@@ -55,8 +53,8 @@ Me describo de la siguiente manera:
 
 ### 📊 Mis estadisticas:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsolisdev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidsolisdev&theme=onedark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsolisdev&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsolisdev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
